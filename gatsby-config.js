@@ -1,14 +1,15 @@
 module.exports = {
+  pathPrefix: "/irumdev.github.io",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `개발자 최병훈의 포트폴리오`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `ByeongHoon Choi`,
+      summary: `매일 성장하는 개발자`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `irum.choi`,
     },
   },
   plugins: [
